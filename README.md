@@ -1,0 +1,2 @@
+# hotelAPI
+Hotel Api Plugin
